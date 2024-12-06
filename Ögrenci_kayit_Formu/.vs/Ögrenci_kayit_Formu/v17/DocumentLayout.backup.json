@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\Desktop\\Udemy\\\u00D6grenci_kayit_Formu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3537E9-C248-4F30-A7AE-731EFB57A8C3}|\u00D6grenci_kayit_Formu\\\u00D6grenci_kayit_Formu.csproj|c:\\users\\deniz\\desktop\\udemy\\\u00F6grenci_kayit_formu\\\u00F6grenci_kayit_formu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3537E9-C248-4F30-A7AE-731EFB57A8C3}|\u00D6grenci_kayit_Formu\\\u00D6grenci_kayit_Formu.csproj|solutionrelative:\u00F6grenci_kayit_formu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3537E9-C248-4F30-A7AE-731EFB57A8C3}|\u00D6grenci_kayit_Formu\\\u00D6grenci_kayit_Formu.csproj|c:\\users\\deniz\\desktop\\udemy\\\u00F6grenci_kayit_formu\\\u00F6grenci_kayit_formu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF3537E9-C248-4F30-A7AE-731EFB57A8C3}|\u00D6grenci_kayit_Formu\\\u00D6grenci_kayit_Formu.csproj|solutionrelative:\u00F6grenci_kayit_formu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Udemy\\\u00D6grenci_kayit_Formu\\\u00D6grenci_kayit_Formu\\Form1.cs",
+              "RelativeDocumentMoniker": "\u00D6grenci_kayit_Formu\\Form1.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Udemy\\\u00D6grenci_kayit_Formu\\\u00D6grenci_kayit_Formu\\Form1.cs",
+              "RelativeToolTip": "\u00D6grenci_kayit_Formu\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:03:42.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\Udemy\\\u00D6grenci_kayit_Formu\\\u00D6grenci_kayit_Formu\\Form1.cs",
+              "RelativeDocumentMoniker": "\u00D6grenci_kayit_Formu\\Form1.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\Udemy\\\u00D6grenci_kayit_Formu\\\u00D6grenci_kayit_Formu\\Form1.cs [Design]",
+              "RelativeToolTip": "\u00D6grenci_kayit_Formu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:57:15.018Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

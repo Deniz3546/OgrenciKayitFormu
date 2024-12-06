@@ -1,0 +1,10 @@
+C:\Users\deniz\Desktop\Udemy\Ögrenci_kayit_Formu\Ögrenci_kayit_Formu\bin\Debug\Ögrenci_kayit_Formu.exe.config
+C:\Users\deniz\Desktop\Udemy\Ögrenci_kayit_Formu\Ögrenci_kayit_Formu\bin\Debug\Ögrenci_kayit_Formu.exe
+C:\Users\deniz\Desktop\Udemy\Ögrenci_kayit_Formu\Ögrenci_kayit_Formu\bin\Debug\Ögrenci_kayit_Formu.pdb
+C:\Users\deniz\Desktop\Udemy\Ögrenci_kayit_Formu\Ögrenci_kayit_Formu\obj\Debug\Ögrenci_kayit_Formu.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Udemy\Ögrenci_kayit_Formu\Ögrenci_kayit_Formu\obj\Debug\Ögrenci_kayit_Formu.Form1.resources
+C:\Users\deniz\Desktop\Udemy\Ögrenci_kayit_Formu\Ögrenci_kayit_Formu\obj\Debug\Ögrenci_kayit_Formu.Properties.Resources.resources
+C:\Users\deniz\Desktop\Udemy\Ögrenci_kayit_Formu\Ögrenci_kayit_Formu\obj\Debug\Ögrenci_kayit_Formu.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Udemy\Ögrenci_kayit_Formu\Ögrenci_kayit_Formu\obj\Debug\Ögrenci_kayit_Formu.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Udemy\Ögrenci_kayit_Formu\Ögrenci_kayit_Formu\obj\Debug\Ögrenci_kayit_Formu.exe
+C:\Users\deniz\Desktop\Udemy\Ögrenci_kayit_Formu\Ögrenci_kayit_Formu\obj\Debug\Ögrenci_kayit_Formu.pdb
